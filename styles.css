@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(139, 255, 220);
+}
+h1{
+   text-align: center;
+   color: coral;
+}
+h2{
+    text-align: center;
+    
+}
+table {
+    margin: auto;
+    padding: auto;
+    border-collapse: separate;
+    border: 3px solid salmon;
+}
+td{
+    border-top: 2px solid salmon;
+}
+thead{
+    background-color: cadetblue;
+}
+.tag{
+    background-color: white;
+}
